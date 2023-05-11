@@ -1,0 +1,3 @@
+Implemented the popular Rock-Paper-Scissors game in C++. Enjoy playing with the computer. Score keeping has also been added.
+
+Реализовал популярную игру "Камень-Ножницы-Бумага" на C++. Наслаждайтесь игрой с компьютером. Также реализовано ведение счета.
